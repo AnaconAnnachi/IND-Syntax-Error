@@ -20,7 +20,7 @@ I'm SkrilleX from India, I love python and javascript. I make indie games
 
 - 📄 Studying in [Good Earth School](Good Earth School)
 
-- ⚡ Fun fact **I am a weeb**
+- ⚡ Fun fact **I'm human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
