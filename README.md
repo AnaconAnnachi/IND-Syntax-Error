@@ -5,7 +5,7 @@ I'm Anacon from India, I love python and javascript. I make indie games
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IND-Syntax-Error)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm SkrilleX</h1>
+<h1 align="center">Hi 👋, I'm Anacon</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
